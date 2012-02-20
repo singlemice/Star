@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,menu,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+a{text-decoration:none;}a:hover{text-decoration:underline;color:#ff7300;}
+/*a:visited{color:#666;}*/
+#menu{list-style:none;margin:10px auto;padding:0;}
+#data{list-style:none;margin:10px 0;padding:10px 0;}
+.menu_2
+{
+	margin:10px auto;
+	width:650px;
+}
+
+.container{
+	margin-left:0;
+	margin-right:auto;
+	width:650px;
+	position:relative;
+	font-family: "宋体";
+	font-size: 13px;
+}
+.container_edit{
+	margin:0 auto;
+	width:650px;
+	position:relative;
+	font-family: "宋体";
+	font-size: 13px;
+}
+.right{
+	text-align: right;
+}
+ .r_title{
+	font-family: "宋体";
+	font-size: 16px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;	
+	background-color: #F99;
+	margin-bottom:10px;
+}
+ .r_head{
+	font-family: "宋体";
+	font-size: 13px;
+	color: #000;
+	text-align: left;	
+}
+.center{
+	text-align: center;
+}
+.tb_content{
+	border: 1px solid #000;
+}
+
+.r_content table tr td
+{
+	height:28px; 
+	 border-width:1px;
+	border-color:#666666;
+}

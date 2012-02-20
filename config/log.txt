@@ -1,0 +1,6621 @@
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adataArray
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adataArray
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adataArray
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adataArray
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adataArray
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+print_r adata1
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-03-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-03-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-03-01
+print_r adata1
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-04-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-04-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-04-01
+print_r adata1
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-04-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-03-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+start add total
+stotal:2012-05-01
+data:2012-05-01
+print_r adata1
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+print_r adata1
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-02-01
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+start add total
+stotal:2012-02-01
+data:2012-03-01
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-05-01
+data:2012-04-01
+start add total
+stotal:2012-02-01
+data:2012-04-01
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+start add total
+stotal:2012-02-01
+data:2012-05-01
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+test
+
+2012-02-01
+rownum1
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum2
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum3
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum4
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-02-01
+rownum5
+start add total
+stotal:2012-02-01
+data:2012-02-01
+add total
+start add total
+stotal:2012-03-01
+data:2012-02-01
+start add total
+stotal:2012-04-01
+data:2012-02-01
+start add total
+stotal:2012-05-01
+data:2012-02-01
+
+2012-03-01
+rownum6
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-03-01
+rownum7
+start add total
+stotal:2012-02-01
+data:2012-03-01
+start add total
+stotal:2012-03-01
+data:2012-03-01
+add total
+start add total
+stotal:2012-04-01
+data:2012-03-01
+start add total
+stotal:2012-05-01
+data:2012-03-01
+
+2012-04-01
+rownum8
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-04-01
+rownum9
+start add total
+stotal:2012-02-01
+data:2012-04-01
+start add total
+stotal:2012-03-01
+data:2012-04-01
+start add total
+stotal:2012-04-01
+data:2012-04-01
+add total
+start add total
+stotal:2012-05-01
+data:2012-04-01
+
+2012-05-01
+rownum10
+start add total
+stotal:2012-02-01
+data:2012-05-01
+start add total
+stotal:2012-03-01
+data:2012-05-01
+start add total
+stotal:2012-04-01
+data:2012-05-01
+start add total
+stotal:2012-05-01
+data:2012-05-01
+add total
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test
+test

@@ -1,0 +1,84 @@
+
+ // Column Model shortcut array
+    var columns = [
+        {text: "ID", flex: 1, sortable: true, dataIndex: 'ID'},
+        {text: "日期", width: 70, sortable: true, dataIndex: 'date'},
+        {text: "项目", width: 70, sortable: true, dataIndex: 'project'},
+        {text: "费用类型", width: 70, sortable: true, dataIndex: 'fee_type'},
+        {text: "工作内容", width: 70, sortable: true, dataIndex: 'working'},
+        {text: "金额", width: 70, sortable: true, dataIndex: 'num'},
+        {text: "经手人", width: 70, sortable: true, dataIndex: 'payCreator'},
+        {text: "票据编号", flex: 70, sortable: true, dataIndex: 'billno'}        
+    	
+    ];
+    
+    
+  var rs=  Ext.create('Ext.data.Store', {
+			model : 'Star.model.workingDetail',
+			sorters : ['billno'],
+			groupField : 'billno',
+//			extraParams : {
+//				action : 'record'
+//			},
+			autoLoad:true,
+			proxy : {
+				type : 'ajax',
+				url : 'list_working.php',
+
+				reader : {
+					type : 'json',
+					root : 'detailData',
+					totalProperty : 'iTotalRecords'
+				}
+			}
+		});
+    
+    
+    var recordGrid = Ext.create('Ext.grid.Panel', {
+        multiSelect: true,
+        id:'recordGrid',
+        viewConfig: {
+            plugins: {
+                ptype: 'gridviewdragdrop',
+                dragGroup: 'recordGridDDGroup',
+                dropGroup: 'billGridDDGroup'
+            },
+            listeners: {
+                drop: function(node, data, dropRec, dropPosition) {
+                    var dropOn = dropRec ? ' ' + dropPosition + ' ' + dropRec.get('name') : ' on empty view';
+                   // Ext.example.msg("Drag from right to left", 'Dropped ' + data.records[0].get('name') + dropOn);
+                }
+            }
+        },
+       store            : rs,
+        columns          : columns,
+        stripeRows       : true,
+        title            : 'First Grid',
+        margins          : '0 2 0 0'
+    });
+     var billGrid = Ext.create('Ext.grid.Panel', {
+        multiSelect: true,
+        id:'billGrid',
+        viewConfig: {
+            plugins: {
+                ptype: 'gridviewdragdrop',
+                dragGroup: 'billGridDDGroup',
+                dropGroup: 'recordGridDDGroup'
+            },
+            listeners: {
+                drop: function(node, data, dropRec, dropPosition) {
+                    var dropOn = dropRec ? ' ' + dropPosition + ' ' + dropRec.get('name') : ' on empty view';
+                  //  Ext.example.msg("Drag from right to left", 'Dropped ' + data.records[0].get('name') + dropOn);
+                },
+                beforedrop:function(  node,  data, overModel, dropPosition, dropFunction,  eOpts ){
+                	console.log(data.records.length)
+                	console.log(node)
+                }
+            }
+        },
+      //  store            : firstGridStore,
+        columns          : columns,
+        stripeRows       : true,
+        title            : 'First Grid',
+        margins          : '0 2 0 0'
+    }); 

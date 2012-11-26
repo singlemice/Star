@@ -14,20 +14,20 @@ $result=mysqli_query($dbc,$sql) or die("Error select into Mysql DB");
 $flag=mysqli_num_rows($result);
 $aResultTotal = mysqli_fetch_array($result);
 $iTotal = $aResultTotal[0];
+$id=$aResultTotal["ID"];
 $username=$aResultTotal["username"];
 $realname=$aResultTotal["realname"];
 $role=$aResultTotal["role"];
 $code=$aResultTotal["code"];
-echo $username.$code;
-
+$userflag=$id.",".$role;
 if($flag==1)
 {
 	$_SESSION["login_status"]=1;
 	$_SESSION["username"]=$username;
 	$_SESSION["realname"]=$realname;
-	$_SESSION["role"]=$role;
+	//$_SESSION["role"]=$role;
 	$_SESSION["code"]=$code;
-
+	$_SESSION["ID"]=$userflag;
 	echo "<script>window.location =\"index.php\";</script>";
 }
 else

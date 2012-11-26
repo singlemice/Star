@@ -1,0 +1,21 @@
+[
+{
+			ID : 1,
+			date : "May 24, 2009",
+			project:"招生",
+			fee_type："ZZ",
+			working : "继教院招生",
+			name:"Star",
+			workload：10,
+			cost:100,
+			Subsidy:100,
+			num:1100,
+			payment:"0"
+			remark:"现金支付",
+			timestamp:"201020123010310",
+			billno:"2020100212001",
+			is_print:true			
+}
+]
+		
+		

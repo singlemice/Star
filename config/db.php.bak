@@ -1,0 +1,7 @@
+<?php
+$db_host="10.60.0.147";
+$port="3306";
+$db_name="star";
+$db_user="star";
+$db_pwd="star";
+?>

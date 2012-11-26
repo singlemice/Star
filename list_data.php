@@ -5,7 +5,7 @@ require_once(realpath(dirname(__FILE__)."/config/session.php"));
 
 $aColumns = array( '序号',  '类型', '日期', '部门名称','项目','内容摘要','金额','造表人','状态','备注','编辑' );
 $sIndexColumn = "ID";
-$aDBColumns = array('ID','pay_type','pay_date','pay_part','pay_project','pay_content','pay_num','pay_creator','pay_state','pay_remarks');
+$aDBColumns = array('ID','pay_type','pay_date','pay_part','pay_project','pay_content','pay_num','pay_creator','pay_state','pay_remarks','owner','timestame','billno','is_print');
 $dbc=mysqli_connect($db_host,$db_user,$db_pwd,$db_name) or die("Error connection to Mysql Server");
 
 
@@ -19,14 +19,14 @@ $aResultTotal = mysqli_fetch_array($rResultTotal);
 $iTotal = $aResultTotal[0];
 $where=trim($_REQUEST['id']);
 
-$sql="select ID,pay_type,DATE_FORMAT(pay_date,'%Y-%m-%d') as pay_date,pay_part,pay_project,pay_content,pay_num,pay_creator,pay_state,pay_remarks  from pay_detail";
+$sql="select ID,pay_type,DATE_FORMAT(pay_date,'%Y-%m-%d') as pay_date,pay_part,pay_project,pay_content,pay_num,pay_creator,pay_state,pay_remarks,owner,timestamp,is_print  from pay_detail";
 if($where!="")
 {
-$sql=$sql." where id=".$where." order by id desc;";
+	$sql=$sql." where id=".$where." order by id desc;";
 
 }
 elseif($_SESSION["code"]=="0010") {
-$sql=$sql." where owner='".$_SESSION['realname']."' order by id desc;";
+	$sql=$sql." where owner='".$_SESSION['realname']."' order by id desc;";
 }
 elseif(($_SESSION["code"]=="0000")or($_SESSION["code"]=="0100"))
 {
@@ -41,40 +41,40 @@ $result=mysqli_query($dbc,$sql) or die("Error Select from  Mysql DB");
 
 $iFilteredTotal=5;
 /*
-	 * Output
-	 */
-	$output = array(
+ * Output
+ */
+$output = array(
 		"sEcho" => intval($_GET['sEcho']),
 		"iTotalRecords" => $iTotal,
 		"iTotalDisplayRecords" => $iFilteredTotal,
 		"aaData" => array()
-	);
-	
-	while ( $aRow = mysqli_fetch_array( $result ) )
+);
+
+while ( $aRow = mysqli_fetch_array( $result ) )
+{
+	$row = array();
+	$count_col=count($aColumns)-1;
+	for ( $i=0 ; $i<count($aColumns) ; $i++ )
 	{
-		$row = array();
-		$count_col=count($aColumns)-1;
-		for ( $i=0 ; $i<count($aColumns) ; $i++ )
+		// echo $aDBColumns[$i];
+		/* General output */
+		//$row[] = '<a href="./editDetail.php?action=modify&id='.$aRow[ $aDBColumns[$i] ].">".$aRow[ $aDBColumns[$i] ]."</a>";
+		if($i==$count_col)
 		{
-			// echo $aDBColumns[$i];
-				/* General output */
-				//$row[] = '<a href="./editDetail.php?action=modify&id='.$aRow[ $aDBColumns[$i] ].">".$aRow[ $aDBColumns[$i] ]."</a>";
-				if($i==$count_col)
-				{
-					$row[] = '<a href="./editDetail.php?action=modify&id='.$aRow[ $aDBColumns[0] ].'">'.Edit.'</a>';
-				}
-				else
-				{
-					$row[]=$aRow[ $aDBColumns[$i] ];
-				//	echo $aRow[ $aDBColumns[$i] ]."<br/>";
-				//	echo $aDBColumns[$i]."<br/>";
-				}
-			
+			$row[] = '<a href="./editDetail.php?action=modify&id='.$aRow[ $aDBColumns[0] ].'">'.Edit.'</a>';
 		}
-	//	echo "=========";
-		$output['aaData'][] = $row;
+		else
+		{
+			$row[]=$aRow[ $aDBColumns[$i] ];
+			//	echo $aRow[ $aDBColumns[$i] ]."<br/>";
+			//	echo $aDBColumns[$i]."<br/>";
+		}
+			
 	}
-	mysqli_close($dbc);
-	echo json_encode( $output );
-	
+	//	echo "=========";
+	$output['aaData'][] = $row;
+}
+mysqli_close($dbc);
+echo json_encode( $output );
+
 ?>

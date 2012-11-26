@@ -13,19 +13,11 @@ if(!isset($_SESSION["login_status"]))
 	echo "<script>window.location =\"login.html\";</script>";
 }
 else {
-	echo "<script>window.location =\"listall.php\";</script>";
+	echo "<script>window.location =\"main.php\";</script>";
 }
 ?>
 </head>
 <body>
-<div id="container">
-<div id="menu">
-<?php 
 
-include './menu.php';
-
-?>
-</div>
-</div>
 </body>
 </html>

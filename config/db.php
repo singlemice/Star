@@ -1,7 +1,7 @@
 <?php
-$db_host="172.24.20.164";
+$db_host="127.0.0.1";
 $port="3306";
 $db_name="star";
-$db_user="star";
-$db_pwd="star";
+$db_user="root";
+$db_pwd="mysql";
 ?>

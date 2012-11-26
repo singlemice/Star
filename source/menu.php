@@ -1,0 +1,63 @@
+<?php 
+ $output=array("menu"=>array(
+		"text"=>"南京电大",
+		"children"=>array()));
+
+$leaf["menu"]["children"]=array();
+$leaf["menu"]["children"][]=array("text"=>"支付明细","children"=>array());
+$leaf2[]=array("text"=>"明细管理");
+$leaf3[]=array("text"=>"明细管理2");
+$leaf["menu"]["children"][]=$leaf2;
+$leaf["menu"]["children"][]=$leaf3;
+$output["menu"]["children"][]=$leaf;
+
+/**'{
+"text":"南京电大",
+"expanded":true,
+"children":[{
+	"text":"支付明细"
+	"leaf":false,
+	},
+	{
+		"text":"支付明细"，
+		"leaf":false,
+		"children":[{
+		"text":"明细管理"
+		"id":"managerDetail"
+		},
+		{
+		"text":"表单打印管理"
+		"id":"printDetail"
+		},
+		{
+		"text":"我的报表"
+		"id":"myDetailReport"
+		},
+		{
+			"text":"数据导入"
+			"id":"importDetail"
+		}
+		]
+	},
+	{
+		"text":"工时管理"，
+		"leaf":false,
+	},
+	{
+		"text":"监考管理"，
+		"leaf":false,
+	},
+	{
+		"text":"报表"，
+		"leaf":false,
+	},
+	{
+		"text":"系统设置"，
+		"leaf":false,
+	},
+	
+	]
+});
+*/
+echo json_encode( $output );
+?>

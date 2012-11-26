@@ -57,3 +57,25 @@ a{text-decoration:none;}a:hover{text-decoration:underline;color:#ff7300;}
 	 border-width:1px;
 	border-color:#666666;
 }
+
+.menubar {
+ border-bottom: 1px solid #AACCF6;
+ color: #222222;
+ cursor: pointer;
+ display: block;
+ height: 20px;
+ width: 100%;
+ line-height: 17px;
+ outline-color: -moz-use-text-color;
+ outline-style: none;
+ outline-width: 0;
+ padding: 3px;
+ text-align: center;
+ text-decoration: none;
+ white-space: nowrap;
+}
+
+.menubar:hover {     //鼠标悬停上时触发
+ background: #EBF3FD url(../item-over.gif) repeat-x scroll left bottom;
+ text-decoration: none;
+}

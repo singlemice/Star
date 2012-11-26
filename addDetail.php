@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>无标题文档</title>
+
 <script type="text/javascript"  src="media/js/jquery.js"></script>
 <style type="text/css" title="currentStyle">
 			@import " ./media/css/demo_page.css";
@@ -10,7 +11,109 @@
 			@import " ./css/main.css";
 		</style>
 </head>
+<script type="text/javascript">
+	var submit = document.getElementById('test');
+	var p_head=['类型', '日期', '部门名称','项目','内容摘要','金额','造表人','状态','备注','编辑'];
+	var p_id="tb_detail";
+    
+	function isIE(){ //ie?
+	   if (window.navigator.appName.indexOf("Explorer") > -1)
+	    return true;
+	   else
+	    return false;
+	}
+    var flag=isIE();
+		function append_thead(p_id,p_head)
+	{
+		
+	var tb=document.getElementById("tb_detail");  
+    var oTHead=tb.createTHead();  
+    var oTFoot=tb.createTFoot(); 
+	var head_row=document.createElement("tr");
+	var tH0=oTHead.insertRow(0);
+	var tT0=oTFoot.insertRow(0);
 
+	for(var i=0;i<p_head.length;i++)
+	{
+		
+		var theCell=tH0.insertCell(i)
+		var tTCell=tT0.insertCell(i);
+		if(isIE())
+		{
+		theCell.innerText=p_head[i];
+		tTCell.innerText=P_head[i];
+		}
+		else
+		{
+			theCell.textContent=p_head[i];
+			tTCell.textContent=p_head[i];
+		
+		}	
+
+	}
+	
+	}
+		
+    function get_data(form)
+    {
+       
+    var value);=document.getElementById(form);
+     var payType=escape(dForm.elements['payType'].value);
+     var payDate=escape(dForm.elements['payDate'].value);
+     var payPart=escape(dForm.elements['payPart'].value);
+     var payProject=escape(dForm.elements['payProject'].value);
+     var payContent=escape(dForm.elements['payContent'].value);
+     var payNum=escape(dForm.elements['payNum'].value);
+     var payCreator=escape(dForm.elements['payCreator'].value);
+     var payState= escape(dForm.elements['payState'].value);
+     var payRemark=escape(dForm.elements['payRemark'].value);
+  //   var payMonth=escape(dForm.elements['payMonth'].value);   
+     var timestamp = (new Date()).valueOf(); 
+    var data=[payType,payDate,payPart,payProject,payContent,payNum,payCreator,payState,payRemark,timestamp];
+    return data;
+    }
+    var to_json(p_data)
+    {
+        var json_object={
+        		payType:p_data[0],
+        		payDate:p_data[1],
+        		payPart:p_data[2],
+        		payProject:p_data[3],
+        		payContent:p_data[4],
+        		payNum:p_data[5],
+        		payCreator:p_data[6],
+        		payState:p_data[7],
+        		payRemark:p_data[8],
+        		timestamp:p_data[9]
+        };
+    }
+	function add_rows(p_tb,p_form,p_head)
+	{
+		append_thead(p_tb,p_head);
+		var tBody=document.getElementById(p_tb);
+	    var data=get_data(p_form);
+		var rows=document.getElementById(p_tb).getElementsByTagName("tr");
+        var rowNum=rows.length;
+		
+		var row=tBody.insertRow(rowNum);
+
+		for(var i=0;i<data.length;i++)
+		{
+			var theCell=row.insertCell(i);
+				theCell.appendChild(document.createTextNode(data[i]));
+
+		}
+		
+		
+	}
+
+	function create_xml(p_data)
+	{
+		
+	}
+	var p_tb="tb_detail";
+	var p_form="form1";
+</script>
 <?php 
 require_once(realpath(dirname(__FILE__)."./payDetail.php"));
 require_once(realpath(dirname(__FILE__)."./config/db.php"));
@@ -63,7 +166,7 @@ else
 <?php include './menu.php';?>
 </div>
 <div class="container_edit">
-<form id="form1" name="form1" method="post" action="addDetail.php?action=post" >
+<form id="form1" name="form1" method="post" action="addDetail.phpa?action=post" >
 <table width="600px" border="0" align="center" cellspacing="0px">
   <tr>
     <td width="45">类型</td>
@@ -128,20 +231,30 @@ else
     <td width="45">备注</td>
     <td colspan="3"><label>
       <textarea name="payRemark" id="payRemark" cols="45" rows="5"></textarea>
+      <input name="realname" type="hidden" id="realname" value="<?php echo $_SESSION['realname']?>" />
     </label></td>
     </tr>
    <tr>
     <td colspan="4"><label>
-      <input type="submit" name="submit" id="submit" value="提交" />
+      <input type="submit" name="submit" id="submit" onclick="add_rows(p_tb,p_form,p_head);" value="提交" />
       <input type="reset" name="reset" id="reset" value="重置" />
     </label></td>
     </tr> 
 </table>
 </form>
+<div id="detail">
+	<table id="tb_detail" border="1">
+		<tbody></tbody>
+	</table>
 </div>
+</div>
+
 <?php 
 }
 
 ?>
+<button type="button" id="test" name="test" onclick="add_rows(p_tb,p_form,p_head);" >Create Element</button>
+
+
 </body>
 </html>
